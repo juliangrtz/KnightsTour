@@ -1,4 +1,4 @@
-# Springerproblem
-Eine grafische C#-Implementierung des Springerproblems.
+# Knight's Tour
+A graphical C# implementation of the Knight's Tour.
 
-TBD: Nach Unity portieren
+TBD: Port to Unity
